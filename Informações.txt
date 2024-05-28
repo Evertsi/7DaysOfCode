@@ -1,0 +1,6 @@
+Site
+https://www.netflix.com/br/
+
+Esse projeto consiste em recriar a página inicial da netflix e postar no GitHub.
+Serve de orientação para treinar as novas habilidades e também poder postar no linkedin, mostrando as habilidades, lembrando que
+postar no GitHub serve como futuramente curriculo.
